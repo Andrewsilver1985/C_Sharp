@@ -1,0 +1,15 @@
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfoInputs.cache
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\Task_2.AssemblyInfo.cs
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\Task_2.csproj.CoreCompileInputs.cache
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\Task_2.sourcelink.json
+D:\Geek\C_Sharp\Lesson_1\Task_2\bin\Debug\net8.0\Task_2.exe
+D:\Geek\C_Sharp\Lesson_1\Task_2\bin\Debug\net8.0\Task_2.deps.json
+D:\Geek\C_Sharp\Lesson_1\Task_2\bin\Debug\net8.0\Task_2.runtimeconfig.json
+D:\Geek\C_Sharp\Lesson_1\Task_2\bin\Debug\net8.0\Task_2.dll
+D:\Geek\C_Sharp\Lesson_1\Task_2\bin\Debug\net8.0\Task_2.pdb
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\Task_2.dll
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\refint\Task_2.dll
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\Task_2.pdb
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\Task_2.genruntimeconfig.cache
+D:\Geek\C_Sharp\Lesson_1\Task_2\obj\Debug\net8.0\ref\Task_2.dll
