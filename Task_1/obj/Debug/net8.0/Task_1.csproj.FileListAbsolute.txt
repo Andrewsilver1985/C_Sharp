@@ -12,3 +12,4 @@ D:\Geek\C_Sharp\Lesson_1\Task_1\obj\Debug\net8.0\refint\Task_1.dll
 D:\Geek\C_Sharp\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.pdb
 D:\Geek\C_Sharp\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
 D:\Geek\C_Sharp\Lesson_1\Task_1\obj\Debug\net8.0\ref\Task_1.dll
+D:\Geek\C_Sharp\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.sourcelink.json
